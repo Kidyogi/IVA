@@ -25,6 +25,6 @@ else:
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-    output:
+output:
 
-    <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f3e0bb11-07a3-4eee-9896-54ab126665a1" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f3e0bb11-07a3-4eee-9896-54ab126665a1" />
